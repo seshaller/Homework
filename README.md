@@ -1,2 +1,2 @@
-# Homework
-week 2 homework
+# Portfolio
+ Week 2 assignment
